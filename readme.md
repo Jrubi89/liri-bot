@@ -16,7 +16,6 @@ Name of venue
 Venue location
 Date of the event in MM/DD/YYYY format
 
-Example 
 node liri.js spotify-this-song “song/track name”
 Artist
 Song
@@ -32,4 +31,4 @@ Plot of the movie
 Actors in the movie
 Rotten Tomatoes Rating of the movie
 node liri.js do-what-it-says
-Print the spotify results for “I want it that way” stored in the random.txt file
+Print the spotify results for "Stuck with U” stored in the random.txt file
