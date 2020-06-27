@@ -7,17 +7,31 @@ The LIRI Bot was designed to produce search results based on the following comma
 
 ## Each command produced different search results as listed below:
 
-## node liri.js concert-this
+## node liri.js concert-this "Arist/ Band name"
+
+Will retrived data from API and it display the name of the venue, location and date of event.
+
 ![concert-this](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/concert-this.PNG)
 
-## node liri.js spotify-this-song
+## node liri.js spotify-this-song "Song title"
+
+Will retrived data from API and it display the Artist name, song, URL and album name.
+
 ![spotify-this-song](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/spotify-this-song.PNG)
 
-## node liri.js movie-this
+## node liri.js movie-this "Movie Title"
+
+Will retrived data from API and it display the Movie Title,year released.reating, country and language. This infomation will also display on log.txt.
+
 ![movie-this](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/movie-this.PNG)
 
 ## node liri.js do-what-it-says
+
+Will retrived data from random.txt.
+
 ![do-what-it-says](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/do-what-it-says.PNG)
+
+
 
 ## Technologies used
 
