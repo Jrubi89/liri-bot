@@ -1,0 +1,12 @@
+=======================================================================================================
+liri command: movie-this  Matrix
+=======================================================================================================
+Title: The Matrix
+Year movie was released: 1999
+IMDB movie rating (out of 10): 8.7
+Rotten Tomatoes rating (out of 100%): 88%
+Filmed in: USA
+Language: English
+Movie plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+=======================================================================================================
