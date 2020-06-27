@@ -21,7 +21,7 @@ Will retrived data from API and it display the Artist name, song, URL and album 
 
 ## node liri.js movie-this "Movie Title"
 
-Will retrived data from API and it display the Movie Title,year released.reating, country and language. This infomation will also display on log.txt.
+Will retrived data from API and it display the Movie title, year released, reating, country and language. This infomation will also display on log.txt.
 
 ![movie-this](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/movie-this.PNG)
 
