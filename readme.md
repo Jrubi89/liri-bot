@@ -8,7 +8,6 @@ The LIRI Bot was designed to produce search results based on the following comma
 ## Each command produced different search results as listed below:
 
 ## node liri.js concert-this
-
 ![concert-this](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/concert-this.PNG)
 
 ## node liri.js spotify-this-song
@@ -18,9 +17,17 @@ The LIRI Bot was designed to produce search results based on the following comma
 ![movie-this](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/movie-this.PNG)
 
 ## node liri.js do-what-it-says
-![do-what-it-says](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/## Technologies useddo-what-it-says.PNG)
+![do-what-it-says](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/do-what-it-says.PNG)
 
-##npm packages used:
+## Technologies used
+
+*NodeJS
+*JavaScript
+*Spotify API
+*Twitter API
+*OMDB API
+
+##NPM packages used:
 
 *dotenv.
 *request (omdb api).
