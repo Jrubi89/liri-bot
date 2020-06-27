@@ -7,9 +7,9 @@ The LIRI Bot was designed to produce search results based on the following comma
 
 ## Each command produced different search results as listed below:
 
-## node liri.js concert-this!
+## node liri.js concert-this
 
-[concert-this](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/concert-this.PNG)
+![concert-this](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/concert-this.PNG)
 
 ## node liri.js spotify-this-song
 ![spotify-this-song](https://raw.githubusercontent.com/Jrubi89/liri-bot/master/images/spotify-this-song.PNG)
