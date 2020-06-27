@@ -21,16 +21,16 @@ The LIRI Bot was designed to produce search results based on the following comma
 
 ## Technologies used
 
-*NodeJS
-*JavaScript
-*Spotify API
-*Twitter API
-*OMDB API
+* NodeJS
+* JavaScript
+* Spotify API
+* Twitter API
+* OMDB API
 
 ##NPM packages used:
 
-*dotenv.
-*request (omdb api).
-*node-spotify-api.
-*figlet.
-*fs.
+* dotenv.
+* request (omdb api).
+* node-spotify-api.
+* figlet.
+* fs.
